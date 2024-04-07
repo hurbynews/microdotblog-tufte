@@ -12,6 +12,11 @@
 			"field": "params.description",
 			"label": "Description",
 			"placeholder": "Enter your description here"
+		},
+		{
+			"field": "params.foundingyear",
+			"label": "Founding Year",
+			"placeholder": "Enter a year here"
 		}
 	]
 }
