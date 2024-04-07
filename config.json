@@ -89,6 +89,7 @@
 		"plugins_js": [],
 		"plugins_html": [],
 		"subtitle": "enter your subtitle here",
-		"ogimage": "https://micro.blog/[USERNAME]/avatar.jpg"
+		"ogimage": "https://micro.blog/[USERNAME]/avatar.jpg",
+		"foundingyear": "0"
 	}
 }
