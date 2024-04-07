@@ -6,7 +6,7 @@
 		{
 			"field": "params.subtitle",
 			"label": "Subtitle",
-			"placeholder": "Enter your subtitle here"
+			"placeholder": "Tomorrow's news today"
 		},
 		{
 			"field": "params.description",
@@ -16,7 +16,7 @@
 		{
 			"field": "params.foundingyear",
 			"label": "Founding Year",
-			"placeholder": "Enter a year here"
+			"placeholder": "1897"
 		}
 	]
 }
